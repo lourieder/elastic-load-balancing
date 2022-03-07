@@ -6,7 +6,7 @@ Elastic Load Balancing (ELB) automatically distributes incoming traffic across m
 ELB expands the service capabilities of your applications and improves their availability by eliminating single points of failure (SPOFs).
 
 
-| ELB Components |
+|ELB Components|
 
 
 ELB Components
