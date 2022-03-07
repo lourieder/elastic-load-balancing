@@ -6,7 +6,7 @@ Elastic Load Balancing (ELB) automatically distributes incoming traffic across m
 ELB expands the service capabilities of your applications and improves their availability by eliminating single points of failure (SPOFs).
 
 
-|ELB Components|
+| ELB Components |
 
 
 ELB Components
@@ -60,5 +60,5 @@ You can use either of the following methods to access ELB:
     In the eu-nl region, you can only create dedicated load balancers, either on the console or by calling APIs.
 
 
-.. |ELB Contents| image:: elastic-load-balancing/api-ref/source/media/
+.. |ELB Contents| image:: elastic-load-balancing/api-ref/source/media/ELB Components.png 
 
