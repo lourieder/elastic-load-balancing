@@ -24,7 +24,7 @@ ELB consists of the following components:
 
 Figure 1 ELB components
 
-ELB_FigOne.png
+|ELB_FigOne.png|
 
 Load Balancer Type
 
@@ -62,4 +62,4 @@ You can use either of the following methods to access ELB:
 
 .. |ELB Contents| image:: /api-ref/source/media/ELB_Components.png 
 
-
+.. |ELB_FigOne.png| image:: api-ref/source/media/ELB_FigOne.png
