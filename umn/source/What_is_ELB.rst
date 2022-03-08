@@ -60,6 +60,6 @@ You can use either of the following methods to access ELB:
     In the eu-nl region, you can only create dedicated load balancers, either on the console or by calling APIs.
 
 
-.. |ELB Contents| image:: /api-ref/source/media/ELB_Components.png 
+.. |ELB Contents| image:: /source/media/ELB_Components.png 
 
 .. |ELB_FigOne.png| image:: api-ref/source/media/ELB_FigOne.png
