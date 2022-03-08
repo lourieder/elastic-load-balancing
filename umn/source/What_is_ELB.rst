@@ -32,8 +32,9 @@ ELB provides the following types of load balancers: dedicated load balancer, sha
 
     Dedicated load balancers have exclusive use of underlying resources, so that the performance of a dedicated load balancer is not affected by other load balancers. In addition, there are a wide range of specifications available for selection.
 
-    In the eu-de region, you can create both dedicated and shared load balancers, and you can create either type of load balancers on the management console or by calling APIs.
-    In the eu-nl region, you can only create dedicated load balancers, either on the console or by calling APIs.
+|note.png|
+
+In the eu-de region, you can create both dedicated and shared load balancers, and you can create either type of load balancers on the management console or by calling APIs. In the eu-nl region, you can only create dedicated load balancers, either on the console or by calling APIs.
 
     Shared load balancers are deployed in clusters and share underlying resources, so that the performance of a load balancer is affected by other load balancers. Shared load balancers were previously named enhanced load balancers.
     Classic load balancers can handle simple, light-traffic web services.
@@ -63,3 +64,4 @@ You can use either of the following methods to access ELB:
 .. |ELB Contents| image:: /source/media/ELB_Components.png 
 
 .. |ELB_FigOne.png| image:: api-ref/source/media/ELB_FigOne.png
+.. |note.png| image:: api-ref/source/media/note.png
